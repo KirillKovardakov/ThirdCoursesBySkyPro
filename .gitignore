@@ -1,0 +1,9 @@
+
+.venv/
+.idea/
+src/__pycache__/
+*.pyc
+*.env
+*.log
+setup_project.sh
+
